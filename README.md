@@ -15,3 +15,10 @@
 docker를 이용하면 윈도우든 리눅스든 상관없이 우분투 환경에서 실행 가능  
 (docker: 컨데이너 기반의 오픈소스 가상화 플랫폼//자세히 알고 싶다면 [여기](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html))  
 GPU가 필요한데 CPU만 있다면 AWS를 사용해야함  
+
+# 2. KoNLPy
+
+## 1) KoNLPy란
+은전한닢, 꼬꼬마, OKt 등 5개 오픈소스 형태소 분석기를 python 환경에서 사용할 수 있도록 인터페이스를 통일한 `한국어 자연어 처리` 패키지.
+
+
